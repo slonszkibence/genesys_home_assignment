@@ -1,0 +1,1 @@
+rootProject.name = "genesys_home_assignment"
